@@ -4,7 +4,9 @@ date: "2025-03-04"
 excerpt: "In .NET, you can implement **Binary Role-Based Access Control (RBAC)** using bitwise operations to efficiently manage user permissions. This approach allows you to store multiple roles or permissions as flags within an integer or enum, making access checks fast and memory-efficient."
 category: "Chat GPT"
 tags: ["Bitwise Flags", "Coding", "Authorization", "RBAC"]
+coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
 author: "Phong Ho"
+authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
 authorBio: "Software Engineer"
 ---
 

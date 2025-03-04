@@ -4,6 +4,7 @@ date: "2025-03-04"
 excerpt: "Use ulong[] for speed, BigInteger for unlimited flags, HashSet<int> for sparse flags, and databases for large-scale storage."
 category: "Chat GPT"
 tags: ["Bitwise Flags", "Coding", "Algorithm"]
+coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
 author: "Phong Ho"
 authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
 authorBio: "Software Engineer"
