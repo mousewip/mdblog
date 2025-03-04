@@ -1,3 +1,14 @@
+---
+title: "Handling More Than 63 Flags in Bitwise Operations"
+date: "2025-03-04"
+excerpt: "Use ulong[] for speed, BigInteger for unlimited flags, HashSet<int> for sparse flags, and databases for large-scale storage."
+category: "Chat GPT"
+tags: ["Bitwise Flags", "Coding", "Algorithm"]
+author: "Phong Ho"
+authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
+authorBio: "Software Engineer"
+---
+
 ### **Handling More Than 63 Flags in Bitwise Operations**
 If you need **more than 63 flags** (which exceeds the capacity of a `long` or `ulong`), you can’t store all flags in a single 64-bit integer. Instead, you should use **alternative techniques**:
 
